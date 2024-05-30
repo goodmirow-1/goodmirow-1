@@ -1,3 +1,10 @@
+## Roy Kim의 GitHub 입니다.
+
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
+</a>
+
+
 ## 📫 기술 스텍
 
 **Primary Tech**
