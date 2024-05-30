@@ -1,4 +1,4 @@
-## Roy Kim의 GitHub 입니다.
+## 김국현의 GitHub 입니다.
 
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
@@ -17,7 +17,7 @@
 
 
 ## Blog
- <a href="https://velog.io/@goodmirow-1"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@goodmirow-1"/></a>
+ <a href="https://velog.io/@goodmirow-1"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@goodmirow"/></a>
 
 
 ## 
